@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "411618275618",
+    "firebase_url": "https://jacra-47edf.firebaseio.com",
+    "project_id": "jacra-47edf",
+    "storage_bucket": "jacra-47edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411618275618:android:6a9daef550c4aa4768757b",
+        "android_client_info": {
+          "package_name": "com.jacra.jacradriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411618275618-034a7l8dtc589q3dlm57l7dhl3h29tij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jacra.jacradriver",
+            "certificate_hash": "25f40b4154b75fdd19c350b14620753e5d6449cc"
+          }
+        },
+        {
+          "client_id": "411618275618-hdlp4nap6g578lv5a9uq2qqek0gst9id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP_Pa8qKWrdMc246orQrfoqfWvXCA4rbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411618275618-hdlp4nap6g578lv5a9uq2qqek0gst9id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
